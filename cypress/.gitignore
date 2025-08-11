@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+
+# Logs
+*.log
